@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    },
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "publisher": "Bloomsbury",
+      "quality": 1,
+      "like": 1,
+      "total_comment": 10,
+      "price": 100
+    }
+  ], 
+  "total_count": 6
+}
