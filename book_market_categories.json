@@ -2,35 +2,43 @@
   "categories": [
     {
       "id": 1,
-      "category": "Comic & Manga"
+      "category": "Comic & Manga",
+      "image": "https://github.com/ThanThai21/FakeAPI/blob/master/category_comic.png?raw=true"
     },
     {
       "id": 2,
-      "category": "Science & Technology"
+      "category": "Science & Technology",
+      "image": "https://3.imimg.com/data3/VF/OU/MY-8278748/science-intermediate-book-500x500.png"
     },
     {
       "id": 3,
-      "category": "Bussiness"
+      "category": "Bussiness",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     {
       "id": 4,
-      "category": "Education"
+      "category": "Education",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     {
       "id": 5,
-      "category": "Novel"
+      "category": "Novel",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     {
       "id": 6,
-      "category": "Family"
+      "category": "Family",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     {
       "id": 7,
-      "category": "Vietnamese"
+      "category": "Vietnamese",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     {
       "id": 8,
-      "category": "Life"
+      "category": "Life",
+      "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     }
   ],
   "total_count": 8
