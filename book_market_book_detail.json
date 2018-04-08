@@ -3,16 +3,16 @@
     "username": "thanthai21",
     "address": "Bạch Mai, Hai Bà Trưng, Hà Nội",
     "phone": "0167 580 1065",
-	"image": "https://vcdn.tikicdn.com/ts/review/48/f6/6b/be54da66f9124ca7ef239bec100628c6.jpg",
     "avatar": "https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-1/p160x160/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&_nc_eui2=v1%3AAeEZzh7HXategcm9-SPf4sg5-6hBxzSQMD8CSYOgY5Q1mdJtgQjl5cvExkn9wKgxEvVihMUFa1C02uPsxXKj4CL-9hXiBQ61b3r9XGlIkTespQ&oh=1578c7375ed0e98d5972d04682f132f8&oe=5B5CDB8B",
     "email": "thaitv210@gmail.com"
   },
   "book": {
     "title": "Thần điêu hiệp lữ",
+	"image": "https://vcdn.tikicdn.com/ts/review/48/f6/6b/be54da66f9124ca7ef239bec100628c6.jpg",
     "author": "Kim Dung",
     "category": {
       "id": 5,
-      "title": "Novel",
+      "category": "Novel",
       "image": "https://static1.squarespace.com/static/4f3335988754c7ec090e9b7b/t/5a904469c830257a340040f6/1519404151542/My+favourite+business+books.png"
     },
     "publisher": "NXB Hội Nhà Văn",
