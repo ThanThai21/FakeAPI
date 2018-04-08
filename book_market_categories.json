@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "category": "Comic & Manga"
+    },
+    {
+      "id": 2,
+      "category": "Science & Technology"
+    },
+    {
+      "id": 3,
+      "category": "Bussiness"
+    },
+    {
+      "id": 4,
+      "category": "Education"
+    },
+    {
+      "id": 5,
+      "category": "Novel"
+    },
+    {
+      "id": 6,
+      "category": "Family"
+    },
+    {
+      "id": 7,
+      "category": "Vietnamese"
+    },
+    {
+      "id": 8,
+      "category": "Life"
+    }
+  ],
+  "total_count": 8
+}
