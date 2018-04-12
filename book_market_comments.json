@@ -1,0 +1,65 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "user": {
+        "username": "Than Van Thai",
+        "address": "Hanoi",
+        "phone": "01675801065",
+        "avatar": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&oh=1be35bda06b29c72cb852c085bbbcb46&oe=5B6085CA",
+        "email": "thaibk210@gmail.com"
+      },
+      "content": "Very cheap!",
+      "dateTime": "23:58:00-12/04/2018"
+    },
+    {
+      "id": 1,
+      "user": {
+        "username": "Than Van Thai",
+        "address": "Hanoi",
+        "phone": "01675801065",
+        "avatar": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&oh=1be35bda06b29c72cb852c085bbbcb46&oe=5B6085CA",
+        "email": "thaibk210@gmail.com"
+      },
+      "content": "Very cheap!",
+      "dateTime": "23:58:00-12/04/2018"
+    },
+    {
+      "id": 1,
+      "user": {
+        "username": "Than Van Thai",
+        "address": "Hanoi",
+        "phone": "01675801065",
+        "avatar": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&oh=1be35bda06b29c72cb852c085bbbcb46&oe=5B6085CA",
+        "email": "thaibk210@gmail.com"
+      },
+      "content": "Very cheap!",
+      "dateTime": "23:58:00-12/04/2018"
+    },
+    {
+      "id": 1,
+      "user": {
+        "username": "Than Van Thai",
+        "address": "Hanoi",
+        "phone": "01675801065",
+        "avatar": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&oh=1be35bda06b29c72cb852c085bbbcb46&oe=5B6085CA",
+        "email": "thaibk210@gmail.com"
+      },
+      "content": "Very cheap!",
+      "dateTime": "23:58:00-12/04/2018"
+    },
+    {
+      "id": 1,
+      "user": {
+        "username": "Than Van Thai",
+        "address": "Hanoi",
+        "phone": "01675801065",
+        "avatar": "https://scontent.fhan2-3.fna.fbcdn.net/v/t1.0-9/27459804_346610849188082_1004207312113503945_n.jpg?_nc_cat=0&oh=1be35bda06b29c72cb852c085bbbcb46&oe=5B6085CA",
+        "email": "thaibk210@gmail.com"
+      },
+      "content": "Very cheap!",
+      "dateTime": "23:58:00-12/04/2018"
+    }
+  ],
+  "total_count": 5
+}
